@@ -1,8 +1,7 @@
 import os
 import time
-import numpy as np
-import pandas as pd
 import streamlit as st
+
 from PIL import Image
 from streamlit_cropper import st_cropper
 from streamlit_tags import st_tags_sidebar
