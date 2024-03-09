@@ -2,6 +2,8 @@
 
 Efficiently label images with ease using this Streamlit app, offering image cropping and a seamless labeling experience.
 
+![Imagem](images/example_app.png)
+
 
 ## Features
 
@@ -18,7 +20,7 @@ Efficiently label images with ease using this Streamlit app, offering image crop
 
 1. Clone the repository:
 ```Bash
-git clone https://github.com/matheussalvess/labeler-app.git
+git clone https://github.com/MatheussAlvess/labeler-app.git
 ```
 
 2. Install dependencies:
