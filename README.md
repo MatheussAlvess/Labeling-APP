@@ -2,7 +2,7 @@
 
 Efficiently label images with ease using this Streamlit app, offering image cropping and a seamless labeling experience.
 
-![Imagem](images/example_app.png)
+![Exemplo de GIF](images/label.gif)
 
 
 ## Features
