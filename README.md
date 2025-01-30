@@ -4,6 +4,7 @@ Efficiently label images with ease using this Streamlit app, offering image crop
 
 ![Exemplo de GIF](images/label.gif)
 
+[Click here](https://labeler-app.streamlit.app/) to label your own images.
 
 ## Features
 
